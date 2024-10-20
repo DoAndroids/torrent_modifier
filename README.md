@@ -2,7 +2,7 @@
 A command line tool to make modification of torrent files quicker and easier
 
 ## Example use:
-```torrentModifier.sh --torrent_file=~/tmp/input.torrent --torrent_announce="http://mynewsite.com/blah" --torrent_prefix=NEW --torrent_source=NEW```
+```torrent_modifier.sh --torrent_file=~/tmp/input.torrent --torrent_announce="http://mynewsite.com/blah" --torrent_prefix=NEW --torrent_source=NEW```
 
 This will create a file called "~/tmp/NEW_input.torrent".
 
